@@ -2,6 +2,10 @@
 
 A tampermonkey script that provides a better WWDC video watching experience
 
+## Install
+
+[Click Here](https://github.com/aopod/BetterWWDC/raw/master/better_wwdc.user.js) after installed Tampermonkey/Greasemonkey.
+
 ## Transcript auto locate
 
 Automatically scroll and locate to specific sentence at current time.
