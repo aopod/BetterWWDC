@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name       Better WWDC
 // @namespace  com.aopod
+// @homepage     https://aopod.com/
+// @author       aopod
 // @version    0.0.1
 // @description  For Better WWDC Video Watching Experience
 // @include    /^https?://developer.apple.com/videos/play/(tech-talks|wwdc\d+|insights)/\d+(/.*)?$
